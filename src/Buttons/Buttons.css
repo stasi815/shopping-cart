@@ -1,0 +1,12 @@
+.buttons-div {
+    padding: 1em;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.active:active {
+    color: #134050;
+}

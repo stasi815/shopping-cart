@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import './category-buttons.css';
 
 class CategoryButton extends Component {
     render() {
@@ -6,4 +7,4 @@ class CategoryButton extends Component {
     }
 }
 
-export default CategoryButton
+export {CategoryButton}

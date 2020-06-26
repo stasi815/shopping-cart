@@ -1,0 +1,13 @@
+.individual-items {
+    height: 350px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-family: Helvetica;
+    font-size: 20px;
+    margin: 1em;
+    border: 1px solid;
+    padding: 1em;
+}

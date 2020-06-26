@@ -1,0 +1,21 @@
+button {
+    font-family: Helvetica;
+    color: white;
+    text-decoration: none;
+    background-color: #60a3bc;
+    border-radius: 50px;
+    display: inline-block;
+    border: none;
+    padding: 5px;
+    margin: 0.5em;
+}
+
+button:hover {
+    color: #60a3bc;
+    text-decoration: none;
+    background-color: white;
+    font-weight: bold;
+    display: inline-block;
+    border: none;
+    border: 1px solid #60a3bc;
+}
